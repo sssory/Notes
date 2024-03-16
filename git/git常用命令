@@ -1,5 +1,8 @@
 # git常用命令
 
+## 0.拉取代码
+git pull
+
 ## 1.克隆
 git clone xxx
 
@@ -16,7 +19,7 @@ git branch -d xxx
 git push origin -d xxx
 
 ## 6.提交到本地仓库
-git -commit -m xxx
+git commit -m xxx
 
 ## 7.推送到远程仓库
 git push origin xxx
